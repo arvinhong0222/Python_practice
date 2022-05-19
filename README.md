@@ -1,2 +1,2 @@
-# Web_Crawler_practice
-Web_Crawler_practice
+# Python_practice
+1. Web_Crawler_practice
